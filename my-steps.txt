@@ -98,10 +98,11 @@ git init
 
 
 ### Step 5
-
+git commit -m "my first commit"
 
 ### Step 6
-
+ touch menu.txt
+ git commit -m "menu update" 
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
