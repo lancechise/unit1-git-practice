@@ -94,6 +94,7 @@ mkdir drinks
 rm -r drinks
 
 ### Step 4
+git init
 
 
 ### Step 5
